@@ -1,0 +1,7 @@
+Este ejemplo fue generado con una linea de comandos en la consola:
+ionic start OtroEjemploIonic sidemenu
+
+Para compilar:
+ionic serve --lab (Para que me muestre en Ios y Android)
+ionic serve 
+
